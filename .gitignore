@@ -1,0 +1,17 @@
+# Object files
+
+*.o
+
+*.obj
+
+# Directories
+.idea/
+build/*
+others/*
+cmake-build-debug/*
+
+# Others
+*.txt
+*.pdf
+main
+*.bmp
